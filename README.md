@@ -1,3 +1,4 @@
+
 # File Organizer
 
 This project is a simple File Organizer created using Python.
@@ -39,3 +40,5 @@ After organizing:
 
 ## Output
 The folder becomes clean and properly organized automatically.
+=======
+# synent-task5-FileOrganizer-harshavardhanchowdarykaranam
